@@ -1,0 +1,26 @@
+h3 {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+}
+
+hr {
+    border: 3px solid white;
+    width: 400px;
+    margin-left: -50px;
+}
+#progres{
+background-color: #aaa;
+-webkit-box-shadow: none;
+box-shadow: none;
+}
